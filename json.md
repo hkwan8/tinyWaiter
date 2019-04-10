@@ -1,5 +1,4 @@
 ## Recipe
 
 - **getThumbnail**
-
-- {"title": String, "blurb": String, "rating": int, "difficulty": int, "time": int}
+  {"title": String, "blurb": String, "rating": int, "difficulty": int, "time": int}
