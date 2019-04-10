@@ -8,3 +8,17 @@
   width: 100%;
   text-align: center;
 }
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.content {
+  margin-top: 10em;
+  width: 80%;
+  margin-left: 10%;
+  height: 100%;
+}
